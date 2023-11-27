@@ -1,0 +1,1 @@
+#navbarBrand{font-size:1.5rem}nav{font-size:1.2rem}body{background-color:#eee}.location-section-wrapper{gap:3rem}a{text-decoration:none;color:inherit}footer{background-color:#ddd;gap:2rem}footer a{color:#000;font-size:2rem}footer a:hover{color:#555}@media (width < 800px){.location-section-wrapper{flex-direction:column}}
